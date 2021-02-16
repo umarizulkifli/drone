@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/256/0*AqO_2lNemh_Fl9Gm.png">
+[logo]: https://miro.medium.com/max/256/0*AqO_2lNemh_Fl9Gm.png"
 
 Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
 
@@ -39,12 +39,11 @@ Sample Pipeline Configuration:
         username: drone
 
 Documentation and Other Links:
-
-    Setup Documentation docs.drone.io/installation
-    Usage Documentation docs.drone.io/getting-started
-    Plugin Index plugins.drone.io
-    Getting Help discourse.drone.io
-    Build the Enterprise Edition BUILDING
-    Build the Community Edition BUILDING_OSS
-
-Please note the official Docker images run the Drone Enterprise distribution. If you would like to run the Community Edition you can build from source by following the instructions in BUILDING_OSS.
+    
+    Please refer to our [wiki](https://github.com/kfit-dev/kfit-app/wiki) to get you started
+    [Setup Documentation] (https://docs.drone.io/installation)
+    [Usage Documentation] (https://docs.drone.io/getting-started)
+    [Plugin Index] (https://plugins.drone.io)
+    [Getting Help] (https://discourse.drone.io)
+    [Build the Enterprise] Edition (https://github.com/drone/drone/blob/master/BUILDING)
+    [Build the Community] Edition (https://github.com/drone/drone/blob/master/BUILDING_OSS)
