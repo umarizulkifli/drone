@@ -40,10 +40,9 @@ Sample Pipeline Configuration:
 
 Documentation and Other Links:
     
-    Please refer to our [wiki](https://github.com/kfit-dev/kfit-app/wiki) to get you started
-    [Setup Documentation] (https://docs.drone.io/installation)
-    [Usage Documentation] (https://docs.drone.io/getting-started)
-    [Plugin Index] (https://plugins.drone.io)
-    [Getting Help] (https://discourse.drone.io)
-    [Build the Enterprise] Edition (https://github.com/drone/drone/blob/master/BUILDING)
-    [Build the Community] Edition (https://github.com/drone/drone/blob/master/BUILDING_OSS)
+    [Setup Documentation](https://docs.drone.io/installation)
+    [Usage Documentation](https://docs.drone.io/getting-started)
+    [Plugin Index](https://plugins.drone.io)
+    [Getting Help](https://discourse.drone.io)
+    [Build the Enterprise] Edition(https://github.com/drone/drone/blob/master/BUILDING)
+    [Build the Community] Edition(https://github.com/drone/drone/blob/master/BUILDING_OSS)
